@@ -209,3 +209,4 @@ temp/
 
 # End of https://www.gitignore.io/api/node,intellij,visualstudiocode
 /curso_Bootstrap.iml
+/.idea/
