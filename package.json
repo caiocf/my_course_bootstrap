@@ -1,0 +1,11 @@
+{
+  "name": "curso_bootstrap",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Caio Cesar Ferreira <caio.c.f@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
