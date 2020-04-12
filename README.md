@@ -11,5 +11,5 @@ $ npm install browser-sync -g
 ## Running Project 
 
 ```console
-$ browser-sync  start --server --files "*.html"
+$ browser-sync  start --server --files "*.html" "assets/css/*"
 ```
